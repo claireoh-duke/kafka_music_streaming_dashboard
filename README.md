@@ -7,6 +7,9 @@ This project demonstrates event streaming, data processing, and live dashboard v
 
 ## 📺 Demo
 
+<video src="https://github.com/user-attachments/assets/28a6040a-632e-4222-8248-14e7db5ca19a" controls width="600"></video>
+
+
 
 ## ✨ Features
 
